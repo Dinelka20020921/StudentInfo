@@ -1,3 +1,5 @@
+**Index No: s16949**
+
 # Student Management System 
 
 Overview -This is a console-based Java application that manages student information using MySQL as the database and JDBC for database connectivity.
@@ -5,7 +7,11 @@ Overview -This is a console-based Java application that manages student informat
 Features include:
 
 Add a new student
+
 View all students
+
 Update student information
+
 Delete a student
+
 Exit
